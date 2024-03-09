@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @theslaygod5
+- 👋 Hi, I’m @kunal
 - 👀 I’m interested in making something cool
 - 🌱 I’m currently learning BCA
 - 💞️ I’m looking to collaborate on Earth
